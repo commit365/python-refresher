@@ -49,4 +49,4 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE.md file for details. Happy coding! 🚀
+This project is licensed under the MIT License. See the LICENSE file for details. Happy coding! 🚀
