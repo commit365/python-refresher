@@ -18,6 +18,7 @@ Python is a high-level, interpreted programming language known for its simplicit
 
 2. **Verify Installation**:
    Open a terminal/command prompt and type:
+   
    ```bash
    python --version
    ```
@@ -34,6 +35,7 @@ Python is a high-level, interpreted programming language known for its simplicit
 ```python
 print("Hello, World!")
 ```
+
 3. Save the file as hello.py
 4. Run the program:
 - In terminal: python hello.py
@@ -43,6 +45,7 @@ print("Hello, World!")
 - Indentation: Python uses indentation to define code blocks
 - Comments: Use # for single-line comments, ''' or """ for multi-line
 - Variables: No declaration needed, dynamically typed
+
 ```python
 # This is a comment
 """
@@ -53,11 +56,14 @@ name = "Alice"  # String variable
 age = 30        # Integer variable
 print(f"{name} is {age} years old.")
 ```
+
 ### Exercise
+
 1. Create a program that asks for the user's name and greets them.
 2. Use the input() function to get user input.
 
 ### Next Steps
+
 - Experiment with different print statements
 - Try basic mathematical operations in Python
 - Explore the Python interactive shell by typing python in the terminal
