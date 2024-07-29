@@ -1,3 +1,5 @@
+# Functions
+
 # Define Function
 def greet():     
 	print("Hello, World!")
