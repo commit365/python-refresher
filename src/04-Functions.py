@@ -61,10 +61,10 @@ print("3 is even:", is_even(3))
 
 # 2. Write a function factorial that takes an integer and returns its factorial.
 def factorial(n):
-	if n <= 0:
+	if n < 0:
 		return 0  # Should ideally return error as factorial is defined only for non-negative numbers
-	elif n < 2:
-		return n
+	elif n == 0 or n == 1:
+		return 1
 	else:
 		result = 1
 		for i in range(n):
@@ -72,6 +72,7 @@ def factorial(n):
 		return result
 
 print("-1! =", factorial(-1)) 
+print("0! =", factorial(0)) 
 print("1! =", factorial(1)) 
 print("2! =", factorial(2)) 
 print("3! =", factorial(3)) 
