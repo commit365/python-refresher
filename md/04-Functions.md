@@ -1,4 +1,3 @@
-
 ## 4. Functions
 
 Functions are reusable blocks of code that perform a specific task. They help in organizing code, making it more readable and maintainable.
