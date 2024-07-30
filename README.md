@@ -42,6 +42,7 @@ Here's a brief overview of the topics covered in each installment:
 24. APIs: Working with REST APIs and web services.
 25. Databases: Interacting with databases using SQLite and SQLAlchemy.
 26. Deployment: Packaging and deploying Python applications.
+27. Further Learning Resources: Resources to enhance your Python programming skills
 
 ## Contributions
 
